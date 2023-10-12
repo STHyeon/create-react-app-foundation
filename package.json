@@ -1,0 +1,20 @@
+{
+  "name": "create-react-app-starter",
+  "version": "0.1.0",
+  "repository": "https://github.com/STHyeon/create-react-app-starter.git",
+  "author": "taehyeon <dulgi@kakao.com>",
+  "license": "MIT",
+  "description": "TypeScript-based boilerplate for React development",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-react-app-starter": "./bin/generate-app.js"
+  },
+  "keywords": [
+    "react",
+    "boilerplate",
+    "typescript",
+    "starter"
+  ]
+}

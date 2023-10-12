@@ -1,17 +1,13 @@
-# React Boilerplate
-
-## Package Name
-
-* create-react-app-foundation
+# create-react-app-foundation
 
 ## Explanation
 
 A boilerplate that provides the basic setup you need to get started with a React project.   
 It includes tools and libraries like TypeScript, ESLint, Prettier, React Router DOM, and more.
 
-## GitHub Repository
+## React Boilerplate GitHub Repository
 
-[Link to GitHub repository]("https://github.com/STHyeon/react-boilerplate")
+[Link to GitHub repository](https://github.com/STHyeon/react-boilerplate)
 
 ## Library Spec
 
